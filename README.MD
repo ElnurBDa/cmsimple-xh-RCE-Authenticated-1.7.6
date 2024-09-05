@@ -1,5 +1,5 @@
 # RCE at cmsimple-xh 1.7.6
-Similarly to https://github.com/advisories/GHSA-56jv-hmch-qm6c , it is possible to upload a PHP payload to execute commands on the host. I requires being **Authenticated**.
+Similarly to https://github.com/advisories/GHSA-56jv-hmch-qm6c , it is possible to upload a PHP payload to execute commands on the host. It requires being **Authenticated**.
 
 Version: CMSimple_XH 1.7.6
 
