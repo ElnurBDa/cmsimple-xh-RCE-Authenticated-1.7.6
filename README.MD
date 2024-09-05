@@ -35,3 +35,7 @@ fclose($fileHandle);
 ![2](2.png)
 ![3](3.png)
 
+## Note
+You can get RCE with easier steps, this payload is for uploading a php file and not breaking the CMS.
+
+It is okay to have RCE if you are an Admin in only user CMS. So not that critical.
